@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         EditText editTextEmail = findViewById(R.id.edit_text_email);
         EditText editTextPassword = findViewById(R.id.edit_text_password);
         AppCompatButton buttonSign = findViewById(R.id.button_sign);
