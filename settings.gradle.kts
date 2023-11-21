@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ILIA_ZUSIK_HW5"
+rootProject.name = "ilia_zusik_hw6"
 include(":app")
  

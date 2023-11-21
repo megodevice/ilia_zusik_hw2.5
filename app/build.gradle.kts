@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.geeks.ilia_zusik_hw5"
+    namespace = "com.geeks.ilia_zusik_hw6"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.geeks.ilia_zusik_hw5"
+        applicationId = "com.geeks.ilia_zusik_hw6"
         minSdk = 28
         targetSdk = 34
         versionCode = 1
